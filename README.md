@@ -12,6 +12,7 @@ This project demonstrates how to host a static website on an AWS EC2 instance us
 2. Installed and started Apache web server
 3. Deployed a static HTML website
 4. Accessed the website via public IP
-
-## Output
+## 🔗 Live Website
+http://13.201.193.163
+## Conclusion
 Website successfully hosted and accessible through EC2 public IP.
